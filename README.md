@@ -5,7 +5,8 @@ but it's my first time using git. <br>
 I need to study first, pls wait.
 ## Package
 python is needed and numpy, ..., ..., ..., are needed.
-inp files should also be prepared first.
+inp files should also be prepared first. <br>
+test some of our coding
 ## Coding
 Waiting...
 ## Ends
