@@ -19,7 +19,7 @@ Inp files with ordered element numbers in Abaqus should also be prepared first. 
 ## Coding
 Waiting...<br>
 ## Some results
-Meso structure of our model: <br>
-![image](https://user-images.githubusercontent.com/116877222/221400622-1f44794d-f6b7-474f-8b96-abc23ccf35f2.png)
-Generation time for 1,000,000 elements
-![image](https://user-images.githubusercontent.com/116877222/221400646-3b096761-83ba-49ca-a6a2-b2f1bf4e5da8.png)
+Mesostructure of our model: <br>
+![image](https://user-images.githubusercontent.com/116877222/221400622-1f44794d-f6b7-474f-8b96-abc23ccf35f2.png)<br>
+Generation time for 1,000,000 elements:<br>
+![image](https://user-images.githubusercontent.com/116877222/221400646-3b096761-83ba-49ca-a6a2-b2f1bf4e5da8.png)<br>
