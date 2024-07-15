@@ -3,7 +3,7 @@ If useful to your research, we would appreciate a citation:<br>
 "Highly efficient 3D meso-scale modeling of concrete with degraded aggregates and random pores: mesoscopic insights into volume fraction and compressive properties." 
 XXXXXX (2023): XXXXXX.***<br>
 Feel free to utilize this code. 
-If any questions, please email us (suyutai@nwpu.edu.cn or xulong@nwpu.edu.cn). <br>
+If any questions, please email us (suyutai@nwpu.edu.cn). <br>
 
 
 # 3D-multi-phase-meso-scale-modelling-of-concrete
