@@ -24,7 +24,6 @@ Abaqus; Python script; Mayavi; three-dimensional (3D) meso-scale model; multi-ph
   - Pixel-to-element mapping preserved
 
 ## File Structure
-│<br>
 ├── 📄 main.py # main algorithm<br>
 ├── 📄 plot_utils.py # visualization<br>
 ├── 📄 inp_writer.py # ABAQUS INP file output<br>
