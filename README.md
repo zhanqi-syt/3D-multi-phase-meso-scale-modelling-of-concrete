@@ -1,8 +1,8 @@
 If useful to your research, we would appreciate a citation:<br>
-**Su Y., Iyela P.M., Zhu J., et al.**  
-*A Voronoi-based Gaussian smoothing algorithm for efficiently generating RVEs of multi-phase composites with graded aggregates and random pores. Materials & Design 244, 113159 (2024).*
-DOI: [10.1016/j.matdes.2024.113159](https://doi.org/10.1016/j.matdes.2024.113159)
-Feel free to utilize this code. 
+**Su Y., Iyela P.M., Zhu J., et al.**  <br>
+*A Voronoi-based Gaussian smoothing algorithm for efficiently generating RVEs of multi-phase composites with graded aggregates and random pores. Materials & Design 244, 113159 (2024).*<br>
+DOI: [10.1016/j.matdes.2024.113159](https://doi.org/10.1016/j.matdes.2024.113159)<br>
+Feel free to utilize this code. <br>
 If any questions, please email us (suyutai@nwpu.edu.cn). <br>
 
 
