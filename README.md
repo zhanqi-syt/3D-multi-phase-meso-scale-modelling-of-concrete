@@ -24,7 +24,7 @@ Abaqus; Python script; Mayavi; three-dimensional (3D) meso-scale model; multi-ph
   - Pixel-to-element mapping preserved
 
 ## File Structure
-project-root/
+.
 │
 ├── 📄 main.py # main algorithm
 ├── 📄 plot_utils.py # visualization
