@@ -27,7 +27,7 @@ Abaqus; Python script; Mayavi; three-dimensional (3D) meso-scale model; multi-ph
 ├── 📄 main.py # main algorithm<br>
 ├── 📄 plot_utils.py # visualization<br>
 ├── 📄 inp_writer.py # ABAQUS INP file output<br>
-├── 📂 inpfiles/ # INP files generations<br>
+├── 📂 `inpfiles/` # INP files generations<br>
 └── 📄 README.md<br>
 
 ## Packages requirements
@@ -37,7 +37,7 @@ Inp files with ordered element numbers in Abaqus should also be prepared first. 
 ## Usage
 1. Configure parameters in `main.py`.
 2. Run generation.
-3. Outputs will be saved in inpfiles/
+3. Outputs will be saved in `inpfiles/`.
 
 ## Some results
 Mesostructure of our model: <br>
