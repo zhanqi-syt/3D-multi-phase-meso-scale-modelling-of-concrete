@@ -1,13 +1,10 @@
 If useful to your research, we would appreciate a citation:<br>
-**Su Y., Iyela P.M., Zhu J., et al.**  <br>
-*A Voronoi-based Gaussian smoothing algorithm for efficiently generating RVEs of multi-phase composites with graded aggregates and random pores. Materials & Design 244, 113159 (2024).*<br>
-DOI: [10.1016/j.matdes.2024.113159](https://doi.org/10.1016/j.matdes.2024.113159)<br>
+*Su Y., Iyela P.M., Zhu J., et al. A Voronoi-based Gaussian smoothing algorithm for efficiently generating RVEs of multi-phase composites with graded aggregates and random pores. Materials & Design 244, 113159 (2024). DOI: [10.1016/j.matdes.2024.113159](https://doi.org/10.1016/j.matdes.2024.113159)*<br>
 Feel free to utilize this code. <br>
 If any questions, please email us (suyutai@nwpu.edu.cn). <br>
 
 
-# 3D-multi-phase-meso-scale-modelling-of-concrete
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  <!-- 可选：添加License徽章 -->
+# 3D-multi-phase-meso-scale-modelling-of-concrete [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  <!-- 可选：添加License徽章 -->
 ## Keywords:
 Abaqus; Python script; Mayavi; three-dimensional (3D) meso-scale model; multi-phase material
 ## Features
